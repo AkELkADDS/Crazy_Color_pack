@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="01d87964-fc46-7140-b29e-3956de333929"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_Extra_Assets_Colors"/>
+            <attribute id="UUID" type="LSString" value="1ed611f9-333c-6b41-4120-dbf3daa429ef"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

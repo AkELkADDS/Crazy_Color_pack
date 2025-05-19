@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="feb81744-5025-468a-bb71-48360a76a851">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1fee9b13-eda3-4b2e-82eb-2f36fc66f697" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Salmon_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd0c9dad6g54c1g6d22g373egf85a039fed04" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="8b406f3e-996c-a4ef-c3c2-bbf413cacb99" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFC2AA" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_72" />
+        <field name="UUID" type="IdTableFieldDefinition" value="82f76e6b-81c3-4a7a-a6b5-96d9779fc0ad" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Salmon_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h660f6dc6g8ed7ge7b5g78b6gf9a3d7146301" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a52a4026-a178-544e-0c25-4153fde0c6f1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFA57A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_73" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ac4f5765-c0c8-4443-80d0-e5df92e9a2e4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Salmon_3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3abb1c58ge586gd0c1g9215gc2dace3085c7" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="b6e18b6d-cde8-6acf-aa0c-cae93738252a" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF8C69" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cb4ac34d-ace5-41b1-a948-ec3bb1d9d491" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Coral_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0d6b009agddb5g8628g6f02gaab4a678cf38" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f583f126-f05c-b106-88b4-71d2baa44fc1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF7550" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="497153f3-a677-4bf8-9f92-7a5de0b861dc" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Tomato_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a7b1069geb22gdc98g0063ge33b3dc89802" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0919e155-e1c5-e853-a0c8-bcf7b1b032cb" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF6347" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6310e25b-5c1c-45f8-845f-32910f978307" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Orange_Red_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74c50a43gb7d5g4080gf8dag6d99e8062353" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0fbf7026-a643-8daf-0fa1-621dd000b55a" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF5349" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fb0af25f-45a9-47f3-8f69-a3ddc0981225" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Open_Red_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf2775716g2d67g7d57gd196g47ccb77d5811" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9e29d4e4-85da-20f1-7c7a-08c4ff513d91" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF0000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fe13e53c-3141-4c80-8e79-02f22c60f578" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Scarlet_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ba5b289g263eg716ag5987g776c9723b4cf" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="27867899-3d4b-7044-985e-b06924db1823" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF2400" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8c202e6c-eec2-4aac-a803-8add520b9954" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Crimson_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h951c9c8eg1090g0fbbg271cgca1898b8acea" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="27867899-3d4b-7044-985e-b06924db1823" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFDC143C" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="439b5ffd-300a-46cb-99b5-37e5835a05a1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Burgundy_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h87454b51g9af9gff85gf882g5a99ae109f09" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="99809eca-8d6c-9f98-2d13-847f78ce1ad0" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF800020" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f3099597-f0c1-402b-bcd8-8d273712adc8" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Bordeaux_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2f32fe96g479bg5290g533bge9f4f986b0f0" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="2a09241c-7fdf-3915-3649-5549fdc471b5" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF5A002C" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8c9a74f3-44ed-4923-ad46-cd87d81c2227" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Blackberry_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e1bb520gf97ega07cgc0ebgc69f941b3624" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="d10dcd6e-b017-55fe-fa91-e1f72eba2d9b" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF2E0016" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8c9c9be8-1f65-4a91-aaed-c38f01964bed" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Rustic_Red_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f5dc8e1ge350g1541g19cbg2873bb3c32d2" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f1f1f03b-81d9-26ad-364c-152aa9e7bd8e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF1E000E" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="27867737-8a7f-47e6-91be-00a7f2fe5dfa" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Blackcurrant 1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha7490341g8624g991fga7c0gfd30242d5742" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="4609da35-2696-95e8-bfc2-c59423407fa3" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF1E002A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="359045f6-e0bd-4cbb-84d1-a15edee5eaf2" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Blackcurrant_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe695190gd92fg39b8g3722g89e9755043a4" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3f8b5520-eed1-e58d-5643-ea98563cedbb" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF260035" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d5110682-c447-4ae6-9094-f953234f133e" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Blackcurrant_3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5a24d24g9927g5f75g4895g03ffee39b7fc" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="bbbf28b6-6ede-29de-555d-c52d4d3b509d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF3C0053" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7e7ef6b2-11f9-4665-a24e-bb5185506589" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Electric_Purple_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he439d283gf10dg56f3ge19bg31209bc54812" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="49da3a78-585e-d543-321d-c9bb5e96fb41" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFB900FC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="91368485-b320-4570-b38d-1e8293c79328" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Pink_Heliotrope_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h00023c3aga98bg0135g3be7gf22594d8f6b3" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="1d1880d2-d5ad-5494-32ce-24075be80942" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFDA75FF" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="808ab693-1fe3-45b0-9a1c-0886a6af4f08" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Pink Wisteria_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64744d26g146cgb8b0g3ef9g85e74176b0eb" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="43963616-e7cc-bc93-fc37-0ceb16892a31" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCAA4D8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ed5aaac7-10e1-4979-a50a-0c825803a139" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Pink_Dust_Storm_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2dbd525agf614g3db6gdb01g63ed48818f87" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="bd31ac72-cc44-b185-1fdc-e3ea2342d960" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFEFC6BF" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3440cabe-fd88-4aff-b553-b2a93cbf7f9b" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Cupid_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h990ff4dfged2cg6bddg0de3geafc87f68411" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a518c52f-f2ac-ef63-c9a4-e0c0b111aa1e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFF5B6C5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8822dc4a-c8c5-45be-8af8-be76f760827a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Wewak_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h270a285egc316g1c46g9d98gf8182cabdd90" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="97b45e4b-e75e-3d13-956d-341689103bad" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFE9999D" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ec7c6465-e106-4069-8e01-b4f57eb49a32" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Sweet_Pink_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he9a051f1gd616gc0cfgb89bg02a7eeeecec9" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9b3b126a-3aed-9e8f-1568-f831162128fc" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFED918D" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f6e17fae-1180-4fe8-9861-763c197341d1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Froly_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb8286d39g56f6g9690g3270g1a4c7e1ef3d3" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFE57679" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ead36a46-809a-27c3-0ce9-79d120bea87a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fbdc963f-e6ae-4ee7-a697-ba556eb60cef" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Froly_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="had6c132cg3f61g0af8gfd93g146552a35191" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFDA6071" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="17056eb9-f9ff-541b-aa8f-bd249a4a6bd7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="675b0f9b-8b14-4742-af59-4f1ba25f3a12" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Watermelon_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha117e9eeg1b2fg638cg0674gdb3c0ef52664" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD23B68" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="add743ae-daf0-d9c2-30bf-75855c8067a6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f247fdbe-8cb3-4724-86f8-fd8475ec81f2" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Violet_Red_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74d8a68dg5983g4db3geec8g4e1d882bc898" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF3C8B" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="4a315d8e-7cd5-c326-1e4c-3df9898680b7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_25" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c5cd862b-61a9-4558-88c4-d05730f3b662" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Wild_Watermelon_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he91a9569g02c8g8e74ge1a4gdc7bcbe7fa65" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF5073" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a46352f9-6c4d-435c-4068-09a2b265e837" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b8203f62-ddab-4b20-849d-ecb23bc3ac2c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Tomato_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h96e789d6g874dg76f8ge013g22243cd2fadc" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF5F4C" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="959f47a0-0611-f4f3-b376-253bfc00000d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ae410545-8cef-4b19-8a1d-2f1972588b4f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Bright_Orange_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h16e9753bg73b6gb338g576dg4089451dbb7b" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFF5F00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="98b2f220-7d59-0c1d-2ef2-ebaff95ae8e8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="93ada73f-cd8d-4982-96a5-64a9156c29e8" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Orange_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h568130e2ga314ge3e6g6e30gacf848fe8698" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFA500" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5b9829d8-58c1-3ca4-562d-7f366c89dda6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="71ec8507-e6e5-477e-bb4d-4f2e9de12136" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Amber_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7e9ceca5g38edgaa45gd8f4g25d1169a14d0" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFBF00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5d3dc32c-a2ea-3f9c-6a93-570742fabf00" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a5f02285-55b0-4e87-acbb-0ac4601ba54b" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Gold_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c40ce23gd30cgbf16g2148g7b9f9b5b0c2b" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFD700" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5e12a507-ebf4-4268-ce42-de657ae5209c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_31" />
+        <field name="UUID" type="IdTableFieldDefinition" value="68f6ce1d-ca8f-4391-989b-ef12a29886d4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Yellow_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h66e01084ge2b0g0cedg4216g09f8cc5df29b" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFFF00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="bdca2954-af75-98b4-ed8f-b01d2fe8a961" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_32" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ce9cc73d-2d54-4d19-a38a-058a3d1b923d" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Electric_Lime_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7510c0dag2249g0f45g0e9ega4ebd93a4967" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFC9FC00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3a0a14b2-f6dc-435b-14d2-dd34f4012e5c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_33" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2229bb77-2639-4d95-9010-cbc6d9ad077e" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Neon_Green_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9804e455gaa43g846fg61ebgaa4d6b0e070f" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF39FF14" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="d9497193-6498-3996-4ded-fc19fc0cdd08" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_34" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cdfe2858-0a1a-4094-9850-556d9e5fe9fb" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Emerald_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="habbac8b7g20efg48e9ga009g0b7a334df4da" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF39CC7A" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3d8a7b83-77c9-9ad7-de6d-c82b793e7adf" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_35" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fdbd431e-6171-438c-894c-4deb88fc029c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Eucalyptus_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h275f38cbg5338g5518g115fg9e6820717d4a" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF39976B" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="dfb8c328-97e6-1a34-25fa-13ff85d4e924" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_36" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cf9fd3db-f209-4b16-9514-87a8e5d4857c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Genoa_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9c80e706g25afga093gd2cfg82a530fd9132" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF368074" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ffc2119b-ce28-0515-a52e-ee6508c21500" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_37" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b8638545-ee3d-416e-a93f-4487988af8a2" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Allports_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h75ef7e40g8c46gd65fg2165g32748b8af861" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF197087" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a15f2365-0957-12e1-779b-b90a77fc143f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_38" />
+        <field name="UUID" type="IdTableFieldDefinition" value="be740169-7337-403d-b348-51f7ea15ad3b" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Bahama_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc6b8036agc005gd03agba8fg783617c09ee7" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF195087" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="8b6dec53-b933-1d78-ae89-f96d9c4aaed0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_39" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7b71cbad-db97-4a52-83ac-95a5841c4d70" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Dark_Cerulean_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ffc7195g06b1g06cbg01c7gad0f4ccca31a" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF193F77" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ba1b9f0e-73f4-c814-76cc-c709748e340f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_40" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f33eea20-7cce-44b7-a48e-9d2948091dc3" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Midnight_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha7b97489g4896gf71cgd34cgaf4a316cfd72" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF191970" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f3a88ef1-4caa-4c5f-bcd8-f63f858288fd" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_41" />
+        <field name="UUID" type="IdTableFieldDefinition" value="87c668d1-6a27-49e7-b4df-425d46e5a549" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_New_Midnight_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb32133c3g2ddeg0cc4g5556g5bf826ff992d" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0000B3" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="c9e21956-33dc-de20-f80c-889afa76269e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_42" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9869fd1b-0f95-4d8d-a4c1-be7ff2a3078a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Open_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha30f8048g6246g71f5g2c39g96724ebeedfd" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0000FF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="10fbce1c-a0eb-5514-5cd5-cb23f0791613" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_43" />
+        <field name="UUID" type="IdTableFieldDefinition" value="98f10b3d-8edd-4abc-a5c2-3da252c8c86d" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Navy_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h993363c0g553fg8b8ag1aabgd5fa1ebbe629" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF004EFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="4917afba-6cb8-0b84-8ddd-12133b1d5123" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_44" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eee02c34-a3ec-4603-8763-43af5748805f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Azure_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2fb45d2g1234gceebg591bgf5ff2622b1ab" version="2" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF007FFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="7b2ad209-c242-bc75-d1ab-fe653cc6f775" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_45" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4465f5d5-98ee-4662-94ee-99558b85b53c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Deep_Sky_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h36b4b7acg64a2gaaf0g1c87g80587dae4a4e" version="2" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF00A5FF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9f19980e-85a9-ba78-dac0-8e177651ff1a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_46" />
+        <field name="UUID" type="IdTableFieldDefinition" value="35a04ffd-d7d1-4f36-ae0f-60ed7a577fd6" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Deep_Sky_Blue_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h314a3d76g6689gc3aagdabag638bcf9eddea" version="2" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF00BFFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5d972654-92a5-876b-845a-94075c29e3cc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_47" />
+        <field name="UUID" type="IdTableFieldDefinition" value="303fd391-332d-42e0-865c-e0e5e6fd00b4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Columbia_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdd7eb5eegee5bg0cc3ga09cg7b232b32a64c" version="2" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF97DBFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="e7511c36-46ef-1628-7c43-d6df95667374" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_49" />
+        <field name="UUID" type="IdTableFieldDefinition" value="342d5d0d-d15e-4683-a2bf-08421462c29d" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Baby_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h38218999g4d81gf682g8acfga93c8b29ff66" version="2" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF89CFF0" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="4b8f5d7f-a157-9e49-93b9-1fdbe427c2f8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_51" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c549cd23-6ebd-4255-9beb-9b654784ae6c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Viking_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9809e9d8gaf9eg3484gdab3gb0442c29bdd4" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF4BA2BA" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="8625dc89-ff66-2ad1-d9c8-42b9bab2060c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_52" />
+        <field name="UUID" type="IdTableFieldDefinition" value="210853f6-61e7-4a8d-94bf-d1eaf0a01d96" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Blue_Green_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf388a83g5742ga603g701dgd72c6efa27bf" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0D98A9" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="337e234c-3969-e454-3f7c-254de079cdfb" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_53" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eac48605-e6e4-4788-b657-8869c2024257" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Teal_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha797ad80gf75eg251bgb8ceg200daf938567" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF008080" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="d54cd6c4-010a-9947-4beb-7ee543b227b3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_54" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d2f663b3-183b-4aca-a9dc-9361b239254a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Gossamer_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h43093cefg278bg48a7g644bg19b1485c237b" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF3E8B7A" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="d37498a8-7c73-87b1-0c85-8214331a8b20" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_55" />
+        <field name="UUID" type="IdTableFieldDefinition" value="501bca07-f7c9-46ec-b2bf-ab9b917e3ffb" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Mint_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haa30325bg0389g4885g80bcg91764575395c" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF3EB489" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f3ab6094-218e-a2fc-7820-b1348f7f3495" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_56" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7b19282f-7e96-440c-95e1-624aa5625786" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Medium_Aquamarine_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h25766d6egee68gb0d3g48a2gcd460a918996" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF66CCAA" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="03bf97ad-a642-65c1-4e5a-5e68fd8b531a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_57" />
+        <field name="UUID" type="IdTableFieldDefinition" value="80c20fb9-7596-4383-ae56-70ac4e6cb091" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Aquamarine_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0fa67cb7g4d42gbdb8g9a0fgc61d3853c11f" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF7FFFD4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="fdc24b65-acf5-30c7-61ee-4ffa660ae9a2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_58" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3b779732-c1f8-47d8-8ae5-01f6ddc3f4ae" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Bright Turquoise_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32d53b03g096bg47feg0283g64458b51dd7f" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0DEFD1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0bf65b7a-9928-8d41-1d73-0be531c954f9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_59" />
+        <field name="UUID" type="IdTableFieldDefinition" value="181c2f3e-230f-4aa3-aa22-f88095eb1991" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Tiffany_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd0f3a829g2cadge173g5817g1f1d45d0b788" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0ABAB5" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="17b05747-ba6d-60a1-aa41-7a5ff98ee37d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_60" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8bfd7376-f573-453e-932c-0f7595a50272" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Dark_Turquoise_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb9aa0bega57eg874dg7d82g0f18ad8cbc8c" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF00CED1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3b0ca749-a744-5bc3-f8a8-a86ad6ba4058" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_61" />
+        <field name="UUID" type="IdTableFieldDefinition" value="630d820e-2189-4214-a77a-55078fb6f1d5" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Cyan_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf117a6degbb0fgd83dg1d50gd1bcd058edeb" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF00FFFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="94517a11-94cc-8d55-c476-0ed0b395dd09" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_62" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3ebd8318-1a16-4f65-b6d6-aa46f50a1ede" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Electric_Blue_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1697f457g39d9g9b9dg32f9g1baa47f91e39" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF7DF9FF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="7490972f-dd81-d42b-fc6b-0e266f6d237f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_63" />
+        <field name="UUID" type="IdTableFieldDefinition" value="405988d8-da97-44ed-b911-c56c6942981f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Light_Cyan_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d7ac734g603cg9df7g9d34g53a024a4354f" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCAFDFF" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="6db083cb-4880-bfd1-50f6-a95165cd68a7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_64" />
+        <field name="UUID" type="IdTableFieldDefinition" value="441d887a-1485-43b3-b7bb-ed2cee400867" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Granny_Apple_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6328d79fg9481g1579gc848g15749026df09" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFC9FBD5" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="90212b46-114c-3971-6471-de81f8b81f79" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_65" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b391e8ed-b068-4f23-875b-701f9b74691c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Mint_Green_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd400b883g4782g5945ge8f9g7db00e6b45bd" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFADFF9E" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="6a450417-98da-29af-29c9-022c6846a6da" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4f904690-225b-4aef-8144-b9d1f66c3ebf" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Light Green_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2dc42934g9c27gd1c3g8cfeg1e6beb71edf3" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8FFF76" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="983b9d8d-b9e3-1f7f-0e60-2e3c7a216c3a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_67" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9a074c19-91a1-4d2f-a9bb-b0d47685eaef" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Mindaro_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc857ced8g7b2dgd80ag00bag0448d9553cd3" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCAFF5D" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="b31bf034-3bf5-a527-eb2f-a475212e1e74" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_68" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2b78e982-92af-46fc-9d94-af6e5f9feb65" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Electric Lime_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h26a5f847g17b5geea5gd2c9g0c74b2ab91b5" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD2FF00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="18e39f7e-8cf4-19bc-8296-909b4c1856f1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_69" />
+        <field name="UUID" type="IdTableFieldDefinition" value="14f16890-eaf0-41e1-8f05-e077cd401c95" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Spring_Bud_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha933882cg27f6gee52g4eb5g120a57975cc1" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFA7FF00" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="81b81d1c-a3dd-3e37-e79f-2c3340aff591" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_70" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f695179a-a535-4da1-bff9-576980dd9e78" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="HAIR_Color_EL_Citrus_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h072422feg6137g5d30gdc39g8c4052979068" version="1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFA5C000" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="61c53906-754a-56e9-efe5-d86514a06780" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

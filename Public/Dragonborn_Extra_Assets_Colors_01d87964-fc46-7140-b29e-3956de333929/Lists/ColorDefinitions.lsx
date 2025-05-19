@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ColorDefinitions">
+        <node id="root">
+            <children>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF000000"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8df5edcfgc291geb6dg1112gb0ede84c6cb6" version="3"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_Vantablack_1"/>
+                    <attribute id="UUID" type="guid" value="0032b9f0-31ee-4735-9957-2af9874c1780"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1C1C1C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0bb6e6dg1c86g7ab5gfa20g9ed4f5185cf7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_2"/>
+                    <attribute id="UUID" type="guid" value="e6315050-e507-4acd-ab30-58fbc1ddbcea"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF262626"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2ae07a02g1e76ga772g098bg5a61b7281b9c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_3"/>
+                    <attribute id="UUID" type="guid" value="51012bad-05cd-4f28-97db-f06148bbdd41"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF2E2E2E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h45b528e2g8a0fgf116gc1f5g043dc016c8d6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_4"/>
+                    <attribute id="UUID" type="guid" value="feae6900-0954-4b63-8df7-2817310ab6cf"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF343434"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha4f51925g12dcgc254g2bffg48ad46060492" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_5"/>
+                    <attribute id="UUID" type="guid" value="a5b27ad7-23fd-41b0-a510-9cd69ae2ea27"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3C3C3C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h25ecd596g1ccege647g7a65gee1f02295d46" version="3"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_1"/>
+                    <attribute id="UUID" type="guid" value="59ea82a4-c9a6-4a36-bed5-5010c648b147"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF4A4A4A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h04ed8f64g1df3gcef7g6a37g645dfc78fbfc" version="3"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_2"/>
+                    <attribute id="UUID" type="guid" value="40636336-ffe6-4726-a827-cbd5d924729a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF585858"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9dd6647eg8816ga8f5g60a7g5f5dcb6d9115" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_3"/>
+                    <attribute id="UUID" type="guid" value="6ea2409c-7359-47be-b7bf-55f0ca2974ff"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF676767"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2ffb8cccg8a6cg131fg2c07g4c0ab0a5d971" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_4"/>
+                    <attribute id="UUID" type="guid" value="37c91f01-f31f-4ed9-99cb-689c1fe4cb3f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF747474"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2171bbc9gcfc0g1294g0f71gcf9fe44e7ff0" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_5"/>
+                    <attribute id="UUID" type="guid" value="eb008125-424d-4d52-a3b2-3a6287c96647"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF808080"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1528d04age8ebgae3bg3c98g82bbc522c085" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_6"/>
+                    <attribute id="UUID" type="guid" value="aa9537ce-602a-4789-9eed-f28db87860b8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF949494"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8fdcd4b1g9524g30a7geca2gf8d067e19b50" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_7"/>
+                    <attribute id="UUID" type="guid" value="fd7c2d7b-278c-4f2f-b630-78ee46b81991"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA5A5A5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05663371g2714g9d0fg5fa2g6bfe7c16b8f1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_8"/>
+                    <attribute id="UUID" type="guid" value="a45ab678-d35b-4587-992a-ec3b34a24f2a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFB8B8B8"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3f908bd2gf8baged09g28e7gef0c140875dd" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_9"/>
+                    <attribute id="UUID" type="guid" value="90b1e849-8e7e-4b3a-a5c6-912dd4284188"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC7C7C7"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha1672b72g8ed9g014eg0163gfd3dadad6a25" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Grey_Neitral_10"/>
+                    <attribute id="UUID" type="guid" value="26d99a76-14cd-4e4f-9acc-5f57d05528ad"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD4D4D4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9e037705g2f1egab1fga98bgdb4c53a59855" version="4"/>
+                    <attribute id="Name" type="FixedString" value="EL_White_1"/>
+                    <attribute id="UUID" type="guid" value="b23ba803-a0c2-40d3-ae3e-d6af820d96e4"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE1E1E1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc2f253b3g4882ge960g0182g2b600b613981" version="4"/>
+                    <attribute id="Name" type="FixedString" value="EL_White_2"/>
+                    <attribute id="UUID" type="guid" value="6de49963-5d0f-4d3a-8314-364fb6582ea4"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFEBEBEB"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5cc107c2g64f2ga1ffg2e91g797a2c97cf9f" version="4"/>
+                    <attribute id="Name" type="FixedString" value="EL_White_3"/>
+                    <attribute id="UUID" type="guid" value="523eec3a-3316-4c39-8cf6-b01657b82728"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF2F2F2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9d242937gb661g0643g39fegdd836ef085f6" version="4"/>
+                    <attribute id="Name" type="FixedString" value="EL_White_4"/>
+                    <attribute id="UUID" type="guid" value="cb03d20a-594a-4c60-a687-4d05367e2b65"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFFFFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9bc521e7g5aaagd60bg355dg515aa7226897" version="4"/>
+                    <attribute id="Name" type="FixedString" value="EL_White_LightBeam_5"/>
+                    <attribute id="UUID" type="guid" value="a7a36e52-3acf-4a71-994a-0b12878b47e9"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFC2AA"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h904aeedfg0850g4c84g857cgef411d2991e4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Salmon_1"/>
+                    <attribute id="UUID" type="guid" value="4a86bba1-0b9f-4a6f-af49-8e6d0512ade2"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFA57A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hce4da34agbbc1g54d0gd2edgafe52d54f45a" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Salmon_2"/>
+                    <attribute id="UUID" type="guid" value="6e3f9371-4b01-4abb-a2d9-208285e80833"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF8C69"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h77cfe56ega1b5g15c9g2bc5g9b56f0e7ef24" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Salmon_3"/>
+                    <attribute id="UUID" type="guid" value="7935e878-ba04-4243-824c-c881237af0e2"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF7550"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h16fd232eg535cg3d17gf2f3g5f04bff3a44f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Coral_1"/>
+                    <attribute id="UUID" type="guid" value="762f5e52-b808-4690-9287-8ab7af45ec2c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF6347"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h442e64b0g6086gf3fag44b6g086de55d5282" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tomato_1"/>
+                    <attribute id="UUID" type="guid" value="76b3dd75-220c-4b39-86e7-716a1c5533a7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF5349"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha48c583cg6538g6046ge2acgb3caede14980" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Orange_Red_1"/>
+                    <attribute id="UUID" type="guid" value="ddddd132-f8a7-4ab6-80f0-85d7cbf0c4b9"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF0000"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbb685c34ga17dg7489g1a9aga6da4b894917" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Open_Red_1"/>
+                    <attribute id="UUID" type="guid" value="7c6922f1-942d-452d-afd6-0a1162923e02"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF2400"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha45545fbg3254g96d1g1fd5gfdb67b5db98a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Scarlet_1"/>
+                    <attribute id="UUID" type="guid" value="0da27c48-3385-4ace-829f-3be668223b4d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFDC143C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5dec543bg1992g876fg77a4g6fdb7d649452" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Crimson_1"/>
+                    <attribute id="UUID" type="guid" value="7d52bd82-fc74-492d-9f4a-ae4dd2d7f7d0"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF800020"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf63b6355gaea6gdf0dgb064g601febc60dc4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Burgundy_1"/>
+                    <attribute id="UUID" type="guid" value="4ce029ac-25b5-496c-b1f5-ff3a4dd8ea16"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF5A002C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h111f4380gfcceg7f08gf733g53564f63812e" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bordeaux_1"/>
+                    <attribute id="UUID" type="guid" value="93d82cf4-7f2c-4edb-a9fc-1c53503ed482"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF2E0016"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78a8fea3ge5c3g5e93gf333g892c586623a3" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackberry_1"/>
+                    <attribute id="UUID" type="guid" value="b7272cdd-d880-4b75-b21f-0503270bf011"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1E000E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3486a895g9fa7g3007ge8c2g44a23405a680" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rustic_Red_1"/>
+                    <attribute id="UUID" type="guid" value="5ec39561-3a80-4d99-a147-92868ac7983e"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1E002A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8eb90cffg2238g2c6cg7c87g67b7d9ab079a" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackcurrant 1"/>
+                    <attribute id="UUID" type="guid" value="6d9727d1-8131-41a4-a599-1ad6e54c0f71"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF260035"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbfb75f0agac85g1d07gbf79g4f23ab0ecd00" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackcurrant_2"/>
+                    <attribute id="UUID" type="guid" value="b9751013-ff9b-44d0-9351-8165c90c5bcd"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3C0053"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h153f11b6g7521g3e83g0929g930b1dd471d0" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackcurrant_3"/>
+                    <attribute id="UUID" type="guid" value="332e85df-0b51-4079-98d8-8d74e333727f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF5E0082"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8bc624bdgc78egeb9fg48a6gd0361fe2e8e8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Indigo_Purple_1"/>
+                    <attribute id="UUID" type="guid" value="70b8f14f-3de0-4d0e-bbd1-188b42c1a8c7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFB900FC"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h486ea7e3ga875g6341g3159ga7d6a843b616" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Electric_Purple_1"/>
+                    <attribute id="UUID" type="guid" value="fe316f0b-fe45-4539-a969-287a72bfee76"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFDA75FF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1413fc21g76d3ge1d2gcbb5g147cebb86533" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pink_Heliotrope_1"/>
+                    <attribute id="UUID" type="guid" value="ed350eb9-8924-4982-b5da-1345fa946261"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFCAA4D8"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he83f9e86gafc6gf8a9g8f88gcca646150fab" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pink Wisteria_1"/>
+                    <attribute id="UUID" type="guid" value="9150319f-0316-40c5-b9c8-b485d155e4dc"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFEFC6BF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60d283b8gcb04ge200g782ag3a56c1c84c59" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pink_Dust_Storm_1"/>
+                    <attribute id="UUID" type="guid" value="82a3e71c-a691-49d3-ac3d-9d8209db4878"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF5B6C5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbcaf5cb7g9420gaa1fgd6cfge79fb995c90e" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cupid_1"/>
+                    <attribute id="UUID" type="guid" value="4205c590-2dc4-42e2-9834-4fcb14ad2ba6"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE9999D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h41b014a9gcf3bgd0d5gefb4gfbd4520bb133" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wewak_1"/>
+                    <attribute id="UUID" type="guid" value="8504877c-a71d-4656-9488-59bb82270644"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFED918D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h612f22b5g013dg88c4g7feegce676c389a40" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Sweet_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="9a7f40ae-116b-4d4c-bca9-57cd994ac3c3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE57679"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b72ff50g45f9gcf34gdb86g456333989455" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Froly_1"/>
+                    <attribute id="UUID" type="guid" value="95d3c8cf-142a-46ce-90aa-f5c70d0e98ef"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFDA6071"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9292624cg9c57g2d80gdc03g097477c9cf9e" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Froly_2"/>
+                    <attribute id="UUID" type="guid" value="80638205-19ab-497f-97de-a37395ee4600"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD23B68"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h013eaa79g9191g9343g43efg776912ad4d01" version="3"/>
+                    <attribute id="Name" type="FixedString" value="EL_Watermelon_1"/>
+                    <attribute id="UUID" type="guid" value="39dc284f-09b7-492e-a9b0-9d632f550acf"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF3C8B"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc8f733c8gca99g88b9ge85bg295cc8232e60" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Violet_Red_1"/>
+                    <attribute id="UUID" type="guid" value="03a03306-a2ee-4d7c-add3-825938d2f503"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF5073"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd7408847g2de3gc5f2gcf3fgd56e2576787e" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wild_Watermelon_1"/>
+                    <attribute id="UUID" type="guid" value="1b97b589-3a6a-48d5-9afd-5944f4a243af"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF5F4C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3e6b76abgfae2g1c83g0b6dg40b2370a17b6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tomato_2"/>
+                    <attribute id="UUID" type="guid" value="31ac254a-4fae-4061-9241-4d8d9bb03e2c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF5F00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8504daf5g8b7bg7140gbdd8g6e110e1b8022" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bright_Orange_1"/>
+                    <attribute id="UUID" type="guid" value="4e3a4d78-e3b1-4b9d-8869-9fa6d829ea21"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFA500"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8485fcffgf5e6gcc55g5797g3cfcebee5c70" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Orange_1"/>
+                    <attribute id="UUID" type="guid" value="918840b4-15cf-4035-afa1-77a1e7b76fc3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFBF00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdc3b7a23gdd3fg4820g3a39gecad0d3c577b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Amber_1"/>
+                    <attribute id="UUID" type="guid" value="c47ef7d0-c8f6-481c-8a91-879461caec78"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFD700"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h67468a61gea15g0704g5424gf4ca27d333d6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Gold_1"/>
+                    <attribute id="UUID" type="guid" value="545cd603-0079-411d-93ba-7f5e1b719291"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFFF00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="heb61c261g2a51g68ddgbedagebe7cc679daa" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Yellow_1"/>
+                    <attribute id="UUID" type="guid" value="17842232-bbb6-42d4-963f-7427b7c4ccc8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC9FC00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfa7b11d4gd1e4g0576g8f85ge1b1c604d78a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Electric_Lime_1"/>
+                    <attribute id="UUID" type="guid" value="f3927b62-930f-406c-b3cc-6f79de3cc306"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF39FF14"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h95287dbagf38eg656eg3781gf0143ffd93e1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Neon_Green_1"/>
+                    <attribute id="UUID" type="guid" value="4d1b52be-7297-43c5-bbe2-09cf90b37db1"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF39CC7A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9aa8c85dg6f0agd891g416cg6afae98820c9" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Emerald_1"/>
+                    <attribute id="UUID" type="guid" value="79bb3414-497a-425c-8199-8fd2c127646f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF39976B"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h66b48394g509bgac76g9b82g78de7dd916ac" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Eucalyptus_1"/>
+                    <attribute id="UUID" type="guid" value="f1ccec5e-6245-4efe-8b3c-002c6c2d708a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF368074"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha7a70a35gcd4fg5a8ag8c31ga0c001ec0b81" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Genoa_1"/>
+                    <attribute id="UUID" type="guid" value="33892b04-ce81-42f3-907f-84d9b2e15e46"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF197087"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h29638f09g1a1bgba38gd555gd19d7a31f6ed" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Allports_1"/>
+                    <attribute id="UUID" type="guid" value="1f264cb9-98ca-42b3-82a3-ed8810fe78dc"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF195087"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he6a16d78g3ee8g06ffg2869gaf3014bfef83" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bahama_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="dfffee11-a2d7-41e4-9f9a-7ee5cb7bee95"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF193F77"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc859a38fg8666g931cgca03gd8fbb0096e40" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Dark_Cerulean_1"/>
+                    <attribute id="UUID" type="guid" value="2356e537-3038-4a6f-8224-be49fe60d7c8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF191970"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf1b66e28g6d77g9eabg9a4dg344bea2785fe" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Midnight_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="529ce75b-4f43-4241-b4e4-92496cf16ee3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF0000B3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6fa235adgab77g838fgbd47gdaa7f47d61d1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_New_Midnight_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="7b995da4-30da-46b6-a1b1-eb9b1829b86d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF0000FF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he570b010g4655g9d2dge7c6g4246d4b7984b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Open_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="31d4b742-f7e8-49f1-898e-7468a4250cdc"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF004EFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h325fb4a8gd3e4gf33cga60bg1b858d88eadb" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Navy_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="93d80329-d4cb-4ac7-b900-0e13682d238f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF007FFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3d2710c5g42fdgef5dgb653g8bfc657bd98a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Azure_1"/>
+                    <attribute id="UUID" type="guid" value="3cac5505-780a-4596-914e-a91b303a2f40"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF00A5FF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h32b870a6g76degeb5fg30cbg7dd792a52f63" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Deep_Sky_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="6a933561-853b-4949-9664-b350810e40aa"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF00BFFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0a8cc46g7600gab29g2ec7g7333a01d0f11" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Deep_Sky_Blue_2"/>
+                    <attribute id="UUID" type="guid" value="b7c7adb2-9dc1-47eb-a1e8-532de1d7cc00"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF97DBFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hac339f11g3044gb43ag7753g603d097cdf26" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Columbia_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="21d85e7d-5b2d-43cf-8e2f-b33c8d957d44"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF89CFF0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5b5d7ddg6cf7gc336g8357g3ec81f3bee54" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Baby_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="29b0add2-cd05-4474-b658-eb9faa994ab6"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF4BA2BA"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h21e5191egeb64gd106gfcabg711550aec41e" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Viking_1"/>
+                    <attribute id="UUID" type="guid" value="6a079032-5264-4c22-bac7-9fa4e8ff072c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF0D98A9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf8b785f6g2555gf6b1g4614g36faff167ca7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blue_Green_1"/>
+                    <attribute id="UUID" type="guid" value="76875ca5-3c38-4723-a5c4-5494e1ac2574"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF008080"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h826d9889ga700g60fcgabd6g1ebffe013aa7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Teal_1"/>
+                    <attribute id="UUID" type="guid" value="21285efa-8257-4d1d-81bd-74e88079d4f8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3E8B7A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f1d9480g6a19gb4a0g1cbdg297dbda9798c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Gossamer_1"/>
+                    <attribute id="UUID" type="guid" value="177f168e-26c8-4153-ae5f-055cd1f466ea"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3EB489"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9ae78dddgd09eg99a4g2f5eg84f29b4c80af" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Mint_1"/>
+                    <attribute id="UUID" type="guid" value="0a944213-a8dc-464e-b32b-b9b984507faa"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF66CCAA"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbfcebcabg554fg89cfgfebegd62c2f6809f4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Medium_Aquamarine_1"/>
+                    <attribute id="UUID" type="guid" value="c8a897af-5521-4d76-9ec7-a4a2538d015b"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF7FFFD4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h266775ecg0f98g5fbag9f7egc4b5a8e24fb4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Aquamarine_1"/>
+                    <attribute id="UUID" type="guid" value="77287afe-f724-4388-978f-bd687ed78535"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF0DEFD1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h73cca459g10f1g6a27g9936gda7d900efe69" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bright Turquoise_1"/>
+                    <attribute id="UUID" type="guid" value="e109a6bb-1272-4589-abea-cfa7aa3da766"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF0ABAB5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9d96d6a7gd781g5c52g1b10g2c6c1281554d" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tiffany_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="95920f23-3527-405c-9bbc-f65c32d73667"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF00CED1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h802023dagdfd7gcf94g86b4g54f14e91f3ca" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Dark_Turquoise_1"/>
+                    <attribute id="UUID" type="guid" value="08d74af1-f563-4387-999e-5e04c47b8b66"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF00FFFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb1ca1d18g59c5g11e6g986cg89a6696f0a73" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cyan_1"/>
+                    <attribute id="UUID" type="guid" value="b8f0b571-c9a7-4e77-85e1-a0c5c6724ba5"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF7DF9FF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h89cd44a2g4347g74a6g2aefg7bd8090db251" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Electric_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="e51f70db-4fb9-4793-8837-d6b04e36b9f7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFCAFDFF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbf6f4418g5ebdgb300g2026gc6a25b9b5d82" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Light_Cyan_1"/>
+                    <attribute id="UUID" type="guid" value="ae5316d1-0d6f-4af2-8fb6-7e9cc45a6053"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC9FBD5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h592b4899g287fg9b55gf408g7096bb3e2cd9" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Granny_Apple_1"/>
+                    <attribute id="UUID" type="guid" value="34a04045-8c2f-4b73-b0c3-420d49d6fb60"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFADFF9E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h76c44440g1845gc20agd0b6g1254d9d3e2cf" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Mint_Green_1"/>
+                    <attribute id="UUID" type="guid" value="5f9b9e8e-b558-4af1-a7c9-b9f37200f077"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8FFF76"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf09b8e38g9b5bg175egf8c4g9971110d601d" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Light Green_1"/>
+                    <attribute id="UUID" type="guid" value="786ac87b-77e5-4a70-a627-29b69769dfc9"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFCAFF5D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb90c3bb5gd4edgda89ga53cg045ddfce8907" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Mindaro_1"/>
+                    <attribute id="UUID" type="guid" value="08e7ee46-983e-4979-9878-b27fb753384d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD2FF00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b23f988g39d4ge21eg9fdbg6b959deddc76" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Electric Lime_2"/>
+                    <attribute id="UUID" type="guid" value="bcdab73a-dda2-43ac-89db-b9852564289a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA7FF00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha625e4a6g1b89g6a27gac45g06fb58433aa8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Spring_Bud_1"/>
+                    <attribute id="UUID" type="guid" value="6ff76b54-35c5-4a7b-9658-5bec164b90c9"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA5C000"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc571a385g3ac8gc58egc4f3gf0b421dd7e9a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Citrus_1"/>
+                    <attribute id="UUID" type="guid" value="c6f0ec31-9855-44ce-bd64-adbfac958962"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA59500"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1d0047d9g389ag286cgb6f4gc0fa0a851755" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Lucky_1"/>
+                    <attribute id="UUID" type="guid" value="990268ea-137e-4fec-8dff-fe79194fe11e"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA57100"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h51e5a702gde8bgd10bg1b46gb21d6b8e1c9c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Golden_Brown_1"/>
+                    <attribute id="UUID" type="guid" value="1c1941bf-f9dc-4b40-be0c-afbbdbb629b7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF553A00"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbef672d5g457egbd8cg5a05gfb5346965985" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bakers_Chocolate_1"/>
+                    <attribute id="UUID" type="guid" value="b7efb140-c365-4449-897b-fe533352daf4"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF4C3421"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9bb7cd20g80e5ge1d5gdce4gc5953b7fb6cb" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Brown_Bramble_1"/>
+                    <attribute id="UUID" type="guid" value="e7fcce22-3c28-4fe6-ba3d-1bb96eadf88c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF312215"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he37a1aabge82fgfc2ag2281g80a02e09cd30" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cocoa_Brown_1"/>
+                    <attribute id="UUID" type="guid" value="2d3db089-7e74-4bc9-970d-98ecc3f9777c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1F160E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3b499d63g70aagc874g56fdgeaa0b3fffd4c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bokara_Grey_1"/>
+                    <attribute id="UUID" type="guid" value="4ff3ba45-fd4a-4dde-bb24-7d9ca1db282c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF140E09"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5ba2c734gd370g66aagf116g8042a0e3e6e4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bokara_Grey_2"/>
+                    <attribute id="UUID" type="guid" value="63fca496-32f7-4d12-ad3a-6ce49a93c072"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1C110D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0c4742egfd7egce77g7786gb8ad07fde423" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Seal Brown_1"/>
+                    <attribute id="UUID" type="guid" value="8fc3e5ba-6326-4ead-a6a5-6699d3a2ee30"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF39221A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4cba078fg0a51ga5ceg45acg14e93061dbda" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Brown Pod_1"/>
+                    <attribute id="UUID" type="guid" value="5b928a21-9afc-47fc-9875-7d7b7706cf9f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF402E1D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h45708b07gf2b2g2a33g953cgcf39f98ac064" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cola_1"/>
+                    <attribute id="UUID" type="guid" value="d25fce0e-3ee5-4904-b987-7c8c4f451857"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF43362A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0b209ac1g42b2gf972g4b39g329204e7ccc8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Woodburn_1"/>
+                    <attribute id="UUID" type="guid" value="3cd560b2-a2c7-4c3d-a4f7-d7159ca03e5f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF433E3A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c8fce91gcaddg96c8gf67ega3e064b51f9f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Taupe_1"/>
+                    <attribute id="UUID" type="guid" value="d7a21a0d-f7b4-4942-a9b7-827067548844"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF544B44"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hca7c095bg0582g1c2bg9252g3c618ded5fb7" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cork_1"/>
+                    <attribute id="UUID" type="guid" value="adeb42a5-772f-444b-9cd3-e74dd19b532f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF695E55"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4951fcb5g1aa7g76f3gc992g31a5c0bab09f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Kabul_1"/>
+                    <attribute id="UUID" type="guid" value="b3894b2c-4c8e-4157-9bf6-11f9498247d7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF877E77"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2ed48805g1185g0fe5gd5ebg0e1c87d658dc" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Americano_1"/>
+                    <attribute id="UUID" type="guid" value="0c31396d-8c7c-4561-8d8f-872cf9de908c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF9F9892"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2a598594g2f85ga200gec09g99e0ff409320" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Zorba_1"/>
+                    <attribute id="UUID" type="guid" value="169c58cb-9895-4562-b50e-b853d81e0b44"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF919692"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hafa51aa7g874fgaa7cgd73dg5f523828af07" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pewter_1"/>
+                    <attribute id="UUID" type="guid" value="b4c8e3a0-5476-4307-ad9f-c406cd882151"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF879890"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h459abc72g7436gd8e2g9208g1674b59bcf10" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Granny_Smith_1"/>
+                    <attribute id="UUID" type="guid" value="0a4cb361-244a-489a-bb53-7db7194a4302"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8A9698"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfe4dc5ecgc911g9e69g14b0gc7533180579b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Submarine_1"/>
+                    <attribute id="UUID" type="guid" value="28881a46-f373-44ea-ad19-c4d025a757dc"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8D98B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ddaca51g6332g30bbg445aga6b4cab6d01a" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rock_Blue_1"/>
+                    <attribute id="UUID" type="guid" value="244268d4-c192-411f-88a3-d244ecdc20e8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF9C98B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e8e26d5g4a9fg62c6gb3e0ga456e8d3b6dd" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Logan_1"/>
+                    <attribute id="UUID" type="guid" value="6964596c-6847-4639-9b1f-b55cc8a1a239"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFB598B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h597f9005gd5f8gafc1g397cgb6a74355fd02" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_London_Hue_1"/>
+                    <attribute id="UUID" type="guid" value="9ca8ea68-4e7b-4431-9683-699b00347a1a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC898B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b0b2bb9g4d0dgf7d1g8938gc49548d99966" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Lily_1"/>
+                    <attribute id="UUID" type="guid" value="b6dbe758-ff7e-458b-870c-b428f7f7dc27"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD898B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2b5682fegf85dgc19bg62bfgbd4b9ee1ae6f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Kobi_1"/>
+                    <attribute id="UUID" type="guid" value="79464fda-0bfe-46d1-ba5c-005cd0d79e16"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE898B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c3608bbg8152gf504g2895g566244db1ec1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Illusion_1"/>
+                    <attribute id="UUID" type="guid" value="a434dffb-381c-4655-a5bf-cd05afbe5d4f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF898B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7ef590d4gbd98gde74g2ff5ge20775be13c2" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Illusion_2"/>
+                    <attribute id="UUID" type="guid" value="d33a2117-c367-4d31-8307-e8e4a4f542c9"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF888B0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a86a151g9647gc2f0g462bgc7434ea1ad56" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tickle_Me_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="a9baedc8-357d-482f-a72d-2561959b3d37"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF8A49F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1e792025g0559g9d1ag6cdage649a7a2afbe" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rose_Bud_1"/>
+                    <attribute id="UUID" type="guid" value="2176cf20-0019-457e-85bf-37033fd23a8d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF8A481"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff38fe31ge11agd393gde14g10f6c7690c4e" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Light_Salmon_1"/>
+                    <attribute id="UUID" type="guid" value="0105ea54-2125-4a4d-96ea-9d62a6edf21e"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFF8AF81"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h88e2c2b9geeb4gc1d2gee49gbfe999cedac6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tacao_1"/>
+                    <attribute id="UUID" type="guid" value="f1fa5785-93fe-481c-aaee-6bc38ed9ceed"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFFAF5E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h757e8512g7066g83ffgcc78gbdb9510201ec" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rajah_1"/>
+                    <attribute id="UUID" type="guid" value="5a10030d-983c-4ab3-863c-25a0080dfc32"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD9B093"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbe3acf4fg5321g69deg82bagc7b7397394cc" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cashmere_1"/>
+                    <attribute id="UUID" type="guid" value="5423c8bf-9aea-4af8-be32-9ee7eff84b19"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE7C0A4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1ac7d0a5g862eg2aa5g1b84g2195b7ac09c2" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Negroni_1"/>
+                    <attribute id="UUID" type="guid" value="dbec41a8-b1db-42e9-b88d-03360d1f72ad"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFEED3C1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b34f826ga6bag01d5g4f15gf54f76ed5ad9" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Almond_1"/>
+                    <attribute id="UUID" type="guid" value="0130d0ff-3c85-4733-af79-5ce6ed905dcc"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFD0BEBC"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef38fe4ag2373ge19ag81cbg6c0d49bf6cda" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Alto_1"/>
+                    <attribute id="UUID" type="guid" value="ab64dfa0-5619-4bd1-a7a4-e9777a79cdcb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFBFA29D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h650a32b8g1d38gf2a3g1ac5g5d40732ed70f" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Martin_1"/>
+                    <attribute id="UUID" type="guid" value="e78e1de5-c5cf-4f89-9193-2d61481e687c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFBF9FA5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha5a86bb5g907dg9aeegee1egd4185ec4aba0" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cannon_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="6c4a0310-626a-496d-ad72-ba07d47e2e1a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFBFA1B1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he25cb8cfge62eg4e10g8fe0g1937b25217f9" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Lily_2"/>
+                    <attribute id="UUID" type="guid" value="d38b5a1a-bcbc-4669-a53b-0ee3cac15ca8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFB196A5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7462dfbfgaeb1ge0a2g6081g9a832dbbb173" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Shady_Lady_1"/>
+                    <attribute id="UUID" type="guid" value="171cf6ce-9125-4427-ac41-466de0bd5399"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF9A828F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha8c77e4bg809dg91efg5bb6g8a95fa60ec20" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Mountbatten_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="c61d117b-286e-42b1-ba6c-4edb84be5fff"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF846C79"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8c943017gf9b7g8956ge21bg6a191170cbdb" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Strikemaster_1"/>
+                    <attribute id="UUID" type="guid" value="953bd32f-19ad-48c6-bc2e-16ceb4369f30"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF634F5A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2fa13daga47dg3271g2f83ge8fc96c6b381" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Finn_1"/>
+                    <attribute id="UUID" type="guid" value="1940d858-a9ca-4465-bcfc-c09be69111eb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF483841"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h87091f5cgaf2cg55c1g7725ge27fc6a9ba36" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Barossa_1"/>
+                    <attribute id="UUID" type="guid" value="9471b77a-c999-4845-8dfb-65f28ef79ce5"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF34272F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h844d7bbegc5efg2fabg02adgd6076d0588a8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Melanzane_1"/>
+                    <attribute id="UUID" type="guid" value="b6d78257-706e-42ef-b1bb-8727c0ce9b72"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF26191C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h45e3f5efg79f9ge2b0g6371g3643f83af5f0" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Aubergine_1"/>
+                    <attribute id="UUID" type="guid" value="c526ffe3-3f44-477f-9f99-6287d3b14906"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF342227"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84ce6915g9952gef8cgc2bag1cf736b44e7d" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Aubergine_2"/>
+                    <attribute id="UUID" type="guid" value="34d70e9d-f426-4841-a936-55281bac9b22"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF442D32"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd5352247g197dg38b3gd4a5g9155cdb93a86" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cab_Sav_1"/>
+                    <attribute id="UUID" type="guid" value="db6563ea-4f00-4c24-a46e-48818c79abb1"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF583A41"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcb5f9ec0g376agb05dg01ffgdd8fc19de310" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tawny Port_1"/>
+                    <attribute id="UUID" type="guid" value="b6f7fb73-5725-4d8b-8bc1-e30d72a12964"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF583737"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5746ded1ge5a0g54eagd985g214ad2c4ca8c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Van_Cleef_1"/>
+                    <attribute id="UUID" type="guid" value="5345b28a-f1bf-4f21-a2c3-f8e7be6f539a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF674741"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h913f4106gb588g8c24g5519ge53945765ae5" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Congo_Brown_1"/>
+                    <attribute id="UUID" type="guid" value="ace31142-f4e7-4bba-9be6-c6952bc31218"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF745C59"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hedaeba1fg9da8g7d6agf787g82eea69efbeb" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Zambezi_1"/>
+                    <attribute id="UUID" type="guid" value="470317d8-9285-4eb7-ab95-a31e29432902"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF806B68"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf49f053dgda61g945cg82bbg2997f18af606" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pharlap_1"/>
+                    <attribute id="UUID" type="guid" value="8df87e74-cfdc-44b7-aa2c-bd1d8d03ed29"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8B7775"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hddf3b3c5g4eefg11bdge977g98897120c54b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bazaar_1"/>
+                    <attribute id="UUID" type="guid" value="9b11768d-c9cf-464f-b660-83b7d5c5da75"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFAB928B"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7dbcba85g073cgd9ecg063bgcd1a38f08844" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Thatch_1"/>
+                    <attribute id="UUID" type="guid" value="c7ce18d7-bbef-43e3-9677-9aeb20a640fb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFB6A39D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ca20f37g5513ge992ge895g9531d5b669c4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Thatch_2"/>
+                    <attribute id="UUID" type="guid" value="801ee33c-7ea2-470d-82ca-0e5322278b9c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFCDB0A6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7a655be3g5fe2gaa6bg682fg99a8451ef3ba" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Clam_Shell_1"/>
+                    <attribute id="UUID" type="guid" value="b9dfe158-e97b-4ec2-a82f-faa5d55e76ed"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFEEA98C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05e1b208g4888gf7f2g816bg47f5ef627dc4" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tonys_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="0d4f980a-cdd3-42b3-a9fa-d86d040280ca"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC7886D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0a8962ecg39acg3f62gd5f2g4b2e677e0704" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Burning Sand_1"/>
+                    <attribute id="UUID" type="guid" value="a55f0e83-d9ed-40b3-9f37-b7618dce900f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8D6656"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5f5a0d8dg636fg5438gd45dg1defc47642d2" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Leather_1"/>
+                    <attribute id="UUID" type="guid" value="76681484-d3c9-449f-b2e2-74c2f851f8f2"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF67493F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he140f491gdf16ga6bfg432dg1de8866b2ea6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Spice_1"/>
+                    <attribute id="UUID" type="guid" value="5f89eb6f-da85-44a3-8ccf-c908b08eb04e"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3E2C26"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec610896gbab0g62d6g305egbff3a806a608" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Morocco_Brown_1"/>
+                    <attribute id="UUID" type="guid" value="be3633f2-86ac-4726-bc8c-68a55b0feefa"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF2A1E1A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef4e168ag296bg7970gd326g0d4d61e4d291" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wood_Bark_1"/>
+                    <attribute id="UUID" type="guid" value="fd9d4806-33f6-4881-ab61-f9014bf00faa"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF291C1A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha0c3cd93gffecg1d1fg1834gfa4f81b96143" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Seal_Brown_1"/>
+                    <attribute id="UUID" type="guid" value="9eb6b003-97fb-4c71-9116-0546e23ad02c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF2A211F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0418e52g7ae9gcb02g658cgd38ed07d6bcb" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wood_Bark_2"/>
+                    <attribute id="UUID" type="guid" value="b858cbf8-507f-4a91-bd88-4860029b552e"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF211C1A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc15b81c0g1f1ag7900g0effgc004c853d42a" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wood_Bark_3"/>
+                    <attribute id="UUID" type="guid" value="d8472b53-9b2d-414a-9402-b278db4af095"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF22222A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17dcbe3bg1cc2g7d9fg6f59gb86ecbccaf0b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Jaguar_1"/>
+                    <attribute id="UUID" type="guid" value="1102a2fa-711a-4640-b6a0-fbc6cf84bb59"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF24202A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3e469661g5e90gd1f1g9f10g0d8d2721360b" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Haiti_1"/>
+                    <attribute id="UUID" type="guid" value="4815dd68-ec42-4d00-949c-c59f83462d99"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1F1E21"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbaad6339g27dfg07a8g3503g6484227d7773" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Haiti_2"/>
+                    <attribute id="UUID" type="guid" value="860560ba-713a-41a2-b9f9-1b03eb197c94"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF21252A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h53d8d0e8ga429g4c95gb96cg4240398230aa" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bunker_1"/>
+                    <attribute id="UUID" type="guid" value="c41627a8-c85a-4efb-b168-5bffc9a87c46"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1D212A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec71c93bg669ag5201g066bg5df8242a3efb" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_Ru_1"/>
+                    <attribute id="UUID" type="guid" value="9bed5df9-ed7b-4428-b837-c75fa9d4a883"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF171E2A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h64835607g7491g9205g4892g89b626d612d3" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_Ru_2"/>
+                    <attribute id="UUID" type="guid" value="900072de-5a66-476c-9f4b-2fdedee26deb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF15222A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h005e0a72g58b0gade2g8bfdg5bf3248e2ba5" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Black_Pearl_1"/>
+                    <attribute id="UUID" type="guid" value="2718c646-7480-4c04-9a37-83ec5668822d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1D3433"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed5b8483g6eb5g1959g2e73gf81e874ba956" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Swamp_1"/>
+                    <attribute id="UUID" type="guid" value="b612a964-53b9-473c-98e7-7702ca80d002"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF1E3E40"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h90556d6bgbe32gfe54gceb5g3d7580042a3c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Nordic_1"/>
+                    <attribute id="UUID" type="guid" value="6dd717ba-dd62-4a80-b077-093c9f43f6e6"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF244B4E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd081d8cdg05d3g70d4g4002g9b9e0735e5bf" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Dark_Slate_Grey_1"/>
+                    <attribute id="UUID" type="guid" value="af898585-a9fc-4e49-9211-a9ed6e8bf996"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF396568"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39e557e1g5706g469cg1764g80be37647da6" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tax_Break_1"/>
+                    <attribute id="UUID" type="guid" value="8d9540b8-0d70-4a7f-b582-6428cf07930c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF5A8B8F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6fbba813g3982g9d41g4158ga33b28f11ec8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Half_Baked_1"/>
+                    <attribute id="UUID" type="guid" value="12512b17-9811-4102-a5ed-ca2a71a849b0"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF90BEC2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2f8b3dc3gb6abgd6a3gf1a1g47b701168c97" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Botticelli_1"/>
+                    <attribute id="UUID" type="guid" value="1f6ff5f8-e922-4d4e-8346-404439ed2f58"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFAECCCF"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5918a69ag3490g283eg4c81g839b61182aad" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Jungle_Mist_1"/>
+                    <attribute id="UUID" type="guid" value="54607519-87e9-4bfe-ac03-a99881e3964c"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFBBCFBC"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf06de8b6g5f6eg71a5g18e4g29a53d621b23" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Paris_White_1"/>
+                    <attribute id="UUID" type="guid" value="f30eda21-a021-4eec-95c0-be723ca56bbb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFC4C8BB"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84bb49a2gf080gd69ag1d37g574bc2633f98" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Harp_1"/>
+                    <attribute id="UUID" type="guid" value="50f8301a-50ff-4278-b204-bf9faa8cf68f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA9A595"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b0973beg0772g4ebcg72d1gd46ff66be591" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Eagle_1"/>
+                    <attribute id="UUID" type="guid" value="5d2fd62f-ec99-4c28-b80b-4481633b52a7"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA99C8F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8a74a256gd69bg28c5g9e77ge9502d386efa" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Zorba_2"/>
+                    <attribute id="UUID" type="guid" value="5c5c48ff-44b9-4e9b-bbb1-0705f83e80cb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA38782"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hca78d146gf92bg3480g769fgfb88eacf33c5" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Opium_1"/>
+                    <attribute id="UUID" type="guid" value="202dfb73-cafd-435c-bafa-c5667efcc625"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF8B7774"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc99cf04eg61e5g9b5eg94bfgc5b1ae610eb7" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bazaar_2"/>
+                    <attribute id="UUID" type="guid" value="a4ec3ed9-f025-45b8-9ef4-3fdda36f6c5a"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF7C6866"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h06fdeb8fg35bage454g4ce9g9bc2b8f3e4cf" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pharlap_2"/>
+                    <attribute id="UUID" type="guid" value="6ca5bb2c-b04a-4db8-a933-a4a80ccdf8ac"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF745050"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2d821b9dg2de5g27ccgc970ge895b17f76ab" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Buccaneer_1"/>
+                    <attribute id="UUID" type="guid" value="2220666b-a808-4481-bc06-e70d715a08ee"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF604A4A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf239e6c3g5490g3283g128bg73b0c8aa3880" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Woody Brown_1"/>
+                    <attribute id="UUID" type="guid" value="573463c7-b7ba-4cc9-9dec-ceeb00523469"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF422F2F"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he7ef2b51gea12gfa79g34fag204ce6eb5fde" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Cowboy_1"/>
+                    <attribute id="UUID" type="guid" value="5c91e24b-e2d5-4955-83e6-f29d9b264cf3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF392424"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc79e42a5ga21bgcbdbg675ag74a874076a46" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Night_Rider_1"/>
+                    <attribute id="UUID" type="guid" value="d836b404-749b-4094-9175-c877102ba3c6"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF391922"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfdf6c79cgf416g59e4g8f69g10fcd128fad8" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Temptress_1"/>
+                    <attribute id="UUID" type="guid" value="c42fe2e6-a743-4fbd-a497-873267afa330"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF2A1018"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf5efc3e1gf637g57bag2951g28e450228583" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rustic_Red_2"/>
+                    <attribute id="UUID" type="guid" value="047e9f02-30eb-4d2f-97d8-a6052ed299d3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3E132B"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec24269cg020egb30bg6714gd36a880869c6" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackberry_2"/>
+                    <attribute id="UUID" type="guid" value="5e9c67a6-2a91-455e-abcd-3b8b3e149395"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF53193A"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6dd9954dgce90g7bcdg4c02g13af7048d055" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Blackberry_3"/>
+                    <attribute id="UUID" type="guid" value="9b4ca358-917e-477e-a17d-52833b47ff4b"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF6B3949"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc1d6521g18bcge278g3b95g1d97dc19fb02" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tawny_Port_1"/>
+                    <attribute id="UUID" type="guid" value="1e83b2dc-d3bb-4ea9-a2e8-4439038389fd"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF6B3C3D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h708955f8g7a4dgedffg99a0g75651f8c6b70" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Tosca_1"/>
+                    <attribute id="UUID" type="guid" value="ac937145-11ef-4fd5-b149-19984f0707e4"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF935254"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h847d7305g2cc7g01b7gadd6g12aea5a1e10c" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Solid_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="ccb4114a-8ccd-4415-afb9-a5efd6f777f3"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFAC6C6D"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h20536399g638bgea88g8322g123999d704a1" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Turkish_Rose_1"/>
+                    <attribute id="UUID" type="guid" value="f43efc0f-9308-4a4d-ac21-23123b144f9d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFBE8485"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc66ce924g7b40gb071g6193g35e696b90538" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Puce_1"/>
+                    <attribute id="UUID" type="guid" value="9e626a80-1452-4b3b-9393-9e020917360f"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE2ADAE"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbbad6236g451dge964g6060g94c87d712dad" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Pale_Chestnut_1"/>
+                    <attribute id="UUID" type="guid" value="af69bc04-5e50-4a1b-981c-0717697ca0f5"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE29A9C"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3d6cf2d2gd47agb16eg59ffgba573b8b4b88" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wewak_2"/>
+                    <attribute id="UUID" type="guid" value="9abb8be8-d639-4533-be02-6723cd5497d8"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFFF9295"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f6b57a8g38a3gd132g872bg949516e17efb" version="2"/>
+                    <attribute id="Name" type="FixedString" value="EL_Wewak_3"/>
+                    <attribute id="UUID" type="guid" value="722d147b-a500-4bcd-8f92-3dc6650b2cfb"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFE28184"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1012d5a9g22aag388dg5a8dgffdb75575691" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Carissma_1"/>
+                    <attribute id="UUID" type="guid" value="fdb08ef6-cec2-420f-94a3-1b6ef7623d69"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA0555E"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="haeafd173g154cg97bdg918cge9ecb0690938" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Hippie_Pink_1"/>
+                    <attribute id="UUID" type="guid" value="c6e97f39-fd99-46f6-8ef6-1c365c0b60f1"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FFA03A49"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0c39f870gae91g8d41gc08cgedb57a26a4bc" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Night_Shadz_1"/>
+                    <attribute id="UUID" type="guid" value="ef2c9e47-49ec-45d3-bea2-d35b125bc6fa"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF9A1F37"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h975804b8gc433g41cbgbc07ga03e567e3b02" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Bright_Red_1"/>
+                    <attribute id="UUID" type="guid" value="65875e62-a2f5-4752-911e-af61e841f93d"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF6B0021"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h175b5cf5g3a82gb461g3a8egb6ba3a56a8aa" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Burgundy_2"/>
+                    <attribute id="UUID" type="guid" value="fd19498f-f1c9-40b6-bdec-71465224c3e6"/>
+                </node>
+                <node id="ColorDefinition">
+                    <attribute id="Color" type="LSString" value="#FF3E0013"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h62848a50gd8d2g1be0gafb2gdc3554aa4d04" version="1"/>
+                    <attribute id="Name" type="FixedString" value="EL_Rustic_Red_3"/>
+                    <attribute id="UUID" type="guid" value="9eef2458-b6da-4e73-975f-f582c15517f7"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
