@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="6af7c7da-7f7c-4bf2-a517-73b98f894305">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c776bcd3-83cd-41ac-997d-47bb4465594c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_00_Null" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde6ca726g6889gc4f3ga4dfgbb228ccddc34" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="49f81b67-c027-e58c-0f82-798fd385d35f" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF000000" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9c76f70d-31c8-4f59-9e4c-1938aafdc46b" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_01" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0165243dgfd82g03c4g55bbg2af1b954b6e2" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="caa87fb4-6a70-a585-419c-37903c8970dd" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF5A5A5A" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f37dc2d9-339e-4a1d-8b26-dfc0bba92a5b" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_02" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0a4dbe3ag48fag91cbg4a8cg190a3c00aad9" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="56278375-01f8-9a2e-a2a2-c02ba5dfd9a5" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF7B7B7B" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d4fa66e0-1720-42aa-98a4-140db742af88" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2d09f90bg3f32g8cfdg41cdg152756a1ddc7" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3197c64e-ffc2-6cd3-7645-ff9cfeced348" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF949494" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_03" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e5e790a7-7ca5-4338-a7d9-05dcc7ebaa08" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he9078579gb9edg6b64g4ba1g768f8f833c6e" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="61f6c90d-0a22-58da-108e-20c0ba12726d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFA8A8A8" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_04" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1f53f475-5991-4de5-8d5e-a5aa360e9b3d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h28c86b8fg43deg78f3g90abg72ecd76e300b" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f19f4d50-c3c6-e925-199c-34423d8e84e9" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFBABABA" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_05" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="46718f4d-62f0-4a26-8153-9d3ab4279ab9" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h357cf340g2366gc0eag5195g330bea233b80" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ac4b398d-04dd-ba94-fffa-09630698ec1b" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCBCBCB" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_06" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d29a665c-631a-458e-82ca-ab6949c84f36" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d19d6ceg0bcegd6bcgade0g2cdf0a7a4a6e" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f3435846-41ea-d370-db93-7b62683365c3" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD9D9D9" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_07" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5f408678-b279-4020-8389-adc9f251bc57" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h78821c06gd1a7gbb58ge6bag7c2cf77e3ae5" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f2440aea-04b2-77ac-a27c-117c7e69ff52" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFE7E7E7" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_08" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9b4ba245-d8af-4e76-998b-982322a60293" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h43460c49ge2c6g5d48g36feg3c83b086fabe" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="15bda835-b0b5-41a7-c5e2-ca3fafc7554d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFF3F3F3" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_09" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a02ea515-d40d-465f-ba1c-a1ebc6ddaaa7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h719052cega745g3d42g5c36g48cc6f049ce5" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="687da48a-3dd3-9752-94b2-379e6617ec8c" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFFFFF" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9c740b04-1ac5-4a76-a137-2d99aae2eea2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h93ea9f83g73ceg624dga74eg55a4b2edf23f" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="6ebf765c-8476-de24-911d-6851225f07fa" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFF3F3F3" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_11" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4e398043-37b5-4cda-99be-3158b5722421" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9f9ec2ecg80d3ga968g4bbfg98d0a3e9bf83" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ba3a7146-35b0-0666-d5b1-e1df0fd73274" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFE7E7E7" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_12" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_25" />
+        <field name="UUID" type="IdTableFieldDefinition" value="70e828a5-4db1-48f5-a3d1-7b4c98e39dcf" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf51cbae5g2647g6c6cgc77dgddadbe257cb2" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ff7dcdfe-a776-1015-e8b9-6021c86302e3" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD9D9D9" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_13" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4ae5793a-6df8-4a5f-a87f-4281f8f4b330" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h09f5a3e6ge10cg95e2g5923ga240c11572d1" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="68f095e9-c6e3-f810-3549-ea7ef8ac0775" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCBCBCB" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_14" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="caaebd6d-fe9b-4269-be92-3f87747ee470" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h972aede1gf9f0g15eeg15a1gc628bea453c7" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="937da72c-e660-40fe-0cda-34436d1d8e6d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFBABABA" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_15" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6c6e7196-20a6-4859-8e12-02b7fda49631" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc92ef90g5333gb955g44f9g63ba973cee38" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="42d71dab-0932-a4e5-65c2-95a63dfada10" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFA8A8A8" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_16" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="de13d691-7736-4f99-8161-345485c66f7d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6b2edd02g04cdg6f13g9445g45f98f34906a" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5d42c991-c52d-da52-3264-24b7627a6251" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF949494" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_17" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c64403d1-cc47-4357-8233-4770f94a9f87" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_18" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h670db54ag8f93ga8e6g1e86gbc4a3b56f962" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="6a01711d-1bd7-7bba-de85-642bea17cd98" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF7B7B7B" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5c8092d5-1ad3-45bf-b8b3-23799f5f364a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_19" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf04ece1g67d5g9d1ag14ffg6ec228453034" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="bf8e2bbd-07e3-5cf6-3caa-ed8224fe4ee1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF5A5A5A" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_31" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eff86cf7-4093-43ca-95c8-c067681287f1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_WEIGHT_20" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdefab5deg290agb6acg77d0g78b3374bce10" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="275b7d10-981c-acf2-9f1c-11adf66bb7b8" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF000000" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="75a6856c-9473-4a15-bf7b-22242bfa3463" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_00_Nul" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7e2a19abg93f6g7b26g86aeg014a0f939f1c" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5fd5ecae-cd9d-c639-d04f-b4a1e0e31616" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF000000" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2c722ca9-b130-4921-b953-bc44829a2baa" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_01" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8d5fce8dg31ddg7c2eg5744g7ce93702117e" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ce8f7b1d-e92e-a01b-e55f-4bf1f4555339" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF5A5A5A" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c6d5ef3b-01b4-443e-8d9a-08b15c4484ba" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_02" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4ae0803dg8001ge0e6g442cgede9c81695be" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="b9ceaeaa-6497-e43a-1814-6a26df900495" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF7B7B7B" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9b140e27-9394-42a7-934a-bd6e718deb5e" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_03" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6df1529eg3d3cg073agb454gfaa4fe190935" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0f9393e0-c9ff-f6da-48fb-a5c5036f0c28" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF949494" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="374b8e76-a245-4e03-95ed-559a7831b0b7" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_04" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h50dd411fg9ae0g95f8gc48bg95c960df3532" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="fef54378-475c-81ac-0d48-e94c4e5b3257" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFA8A8A8" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d5d60e4c-deae-4d10-bda1-f010b2339e34" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_05" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h15b51598ge667g54efg2cbbgc157ce7b8fc6" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="1114f67f-8373-8d5a-daf6-63f29d53973e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFBABABA" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c3923ef0-cce2-4d6e-bfcf-dbee8a06c779" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_06_KAD" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7196639dg6da4g00f1g69e3gf0d611802e0f" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a2ad7052-f2e4-b85b-cba8-54db1b8e2d52" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFCBCBCB" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="08de099b-0f49-420b-ab2c-611847505ff5" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_07" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h172da9a8g863bgff26gf78fg7615dd056b95" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9a0ae46f-673e-6915-c79d-3a03fb8e095f" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD9D9D9" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7e89e3a5-bdc4-40cd-9af2-fa61445071c7" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_08" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h21c734e5g9b90g64a8g1e12gf2c02de12c54" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="84713956-99cf-00e2-d410-be94808263fc" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFE7E7E7" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f42cb2aa-fe8f-46ec-b4f6-90f7884f6436" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_09" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfede16c5g938ag2469gd8d3g336ebde2f9b1" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0d9d80f1-9d69-a25f-6f59-300641b6a079" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFF3F3F3" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1b4bd65f-8499-47bf-9dc1-08e5b0f82285" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_ROUGHNESS_10" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc985e82cg1befge8b7gd275g74df519af53a" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a87b6799-8f4a-65f3-5a9a-cd332485be27" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFFFFFF" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_32" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dca32647-732f-4a5b-a924-abcefcd38c32" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_BodyTattoo_COLOR_Black_KAD" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h742bce5eg4be2g3b34g532bg3513e9e10ad1" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="1ef7c676-3a45-0623-fef0-c8466088c409" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF000000" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

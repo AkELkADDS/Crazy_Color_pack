@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929 
-   Mon 05/19/2025  7:20:32.70 
+   Sun 03/15/2026 23:52:19.70 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -22,9 +22,10 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\D
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationHairColors.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationSkinColors.tbl 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Lists\ColorDefinitions.tbl 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Races\Races.tbl 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 3 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 4 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929 
  
@@ -39,6 +40,45 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Drago
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationHairColors.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationSkinColors.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\0d9d80f1-9d69-a25f-6f59-300641b6a079.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\0f9393e0-c9ff-f6da-48fb-a5c5036f0c28.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\1114f67f-8373-8d5a-daf6-63f29d53973e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\15bda835-b0b5-41a7-c5e2-ca3fafc7554d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\19986464-9871-0be7-190c-2700163492c0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\1ef7c676-3a45-0623-fef0-c8466088c409.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\275b7d10-981c-acf2-9f1c-11adf66bb7b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\2a875158-bf37-64e3-88e6-a6e2b6d90d07.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\3197c64e-ffc2-6cd3-7645-ff9cfeced348.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\42d71dab-0932-a4e5-65c2-95a63dfada10.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\49f81b67-c027-e58c-0f82-798fd385d35f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\56278375-01f8-9a2e-a2a2-c02ba5dfd9a5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\5d42c991-c52d-da52-3264-24b7627a6251.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\5fd5ecae-cd9d-c639-d04f-b4a1e0e31616.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\61f6c90d-0a22-58da-108e-20c0ba12726d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\687da48a-3dd3-9752-94b2-379e6617ec8c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\68f095e9-c6e3-f810-3549-ea7ef8ac0775.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\6a01711d-1bd7-7bba-de85-642bea17cd98.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\6ebf765c-8476-de24-911d-6851225f07fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\84713956-99cf-00e2-d410-be94808263fc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\937da72c-e660-40fe-0cda-34436d1d8e6d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\9a0ae46f-673e-6915-c79d-3a03fb8e095f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\9b63b42b-4407-6f59-c5d6-8710fef642be.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a2ad7052-f2e4-b85b-cba8-54db1b8e2d52.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a5d63af4-bd91-d396-598f-17488c787d23.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a87b6799-8f4a-65f3-5a9a-cd332485be27.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ac4b398d-04dd-ba94-fffa-09630698ec1b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\b9ceaeaa-6497-e43a-1814-6a26df900495.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ba3a7146-35b0-0666-d5b1-e1df0fd73274.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\bf8e2bbd-07e3-5cf6-3caa-ed8224fe4ee1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\caa87fb4-6a70-a585-419c-37903c8970dd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ce8f7b1d-e92e-a01b-e55f-4bf1f4555339.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\defc6dc0-d1a6-0e0f-47ac-b9c89a4f0134.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f19f4d50-c3c6-e925-199c-34423d8e84e9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f2440aea-04b2-77ac-a27c-117c7e69ff52.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f3435846-41ea-d370-db93-7b62683365c3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\fef54378-475c-81ac-0d48-e94c4e5b3257.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ff7dcdfe-a776-1015-e8b9-6021c86302e3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\03bf97ad-a642-65c1-4e5a-5e68fd8b531a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\0919e155-e1c5-e853-a0c8-bcf7b1b032cb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\0bf65b7a-9928-8d41-1d73-0be531c954f9.lsf 
@@ -111,11 +151,13 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\f583f126-f05c-b106-88b4-71d2baa44fc1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\fdc24b65-acf5-30c7-61ee-4ffa660ae9a2.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\ffc2119b-ce28-0515-a52e-ee6508c21500.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Human_Body_Tattoo\11214d02-4f6b-4f5b-e2f2-c156b29a8846.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Human_Body_Tattoo\ddcf2971-1c79-ad93-c819-057a4f9b4c7d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Lists\ColorDefinitions.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Races\Races.lsx 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 75 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 116 
  
-[LOG] Total files found across all folders: 84 
+[LOG] Total files found across all folders: 126 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -131,7 +173,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:20:36 AM
+  Started : Sunday, March 15, 2026 11:52:31 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Projects\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
 
@@ -153,9 +195,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           728237000 Bytes/sec.
-   Speed :           41670.055 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:20:36 AM
+   Speed :           6554133000 Bytes/sec.
+   Speed :           375030.498 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 11:52:31 PM
 
  
 [DEBUG] Counting source files 
@@ -181,7 +223,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:20:37 AM
+  Started : Sunday, March 15, 2026 11:52:33 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
 
@@ -191,30 +233,31 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  120023	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Lists\ColorDefinitions.tbl  0%  100%  
 	    New File  		   52295	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationHairColors.tbl100%  
+	    New File  		   29670	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationSkinColors.tbl100%  
+	    New File  		  120023	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Lists\ColorDefinitions.tbl100%  
 	    New File  		  259649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Races\Races.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         4         4         1         0         0         0
-   Files :         3         3         0         0         0         0
-   Bytes :   421.8 k   421.8 k         0         0         0         0
+    Dirs :         8         8         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   450.8 k   450.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           143989000 Bytes/sec.
-   Speed :            8239.116 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:20:37 AM
+   Speed :           230818500 Bytes/sec.
+   Speed :           13207.540 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 11:52:33 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 3 
-[DEBUG] Successfully copied files: 3 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 
-      Total files: 3 
-      Copied successfully: 3 
+      Total files: 4 
+      Copied successfully: 4 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -232,7 +275,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:20:39 AM
+  Started : Sunday, March 15, 2026 11:52:34 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
 
@@ -242,23 +285,23 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    4161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\meta.lsx100%  
+	    New File  		   11206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\meta.lsx100%  
 	    New File  		   6.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\GUI\metadata.lsf100%  
-	    New File  		   27753	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Localization\English\english.xml100%  
+	    New File  		   34582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    6.28 m    6.28 m         0         0         0         0
+   Bytes :    6.29 m    6.29 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3293240000 Bytes/sec.
-   Speed :           188440.704 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:20:39 AM
+   Speed :           3300177000 Bytes/sec.
+   Speed :           188837.642 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 11:52:34 PM
 
  
 [DEBUG] Counting source files 
@@ -284,7 +327,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:20:41 AM
+  Started : Sunday, March 15, 2026 11:52:36 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\
 
@@ -294,9 +337,48 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   43034	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationHairColors.lsx100%  
+	    New File  		   43036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationHairColors.lsx100%  
+	    New File  		   23117	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\CharacterCreationPresets\CharacterCreationSkinColors.lsx100%  
 	    New File  		   93023	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Lists\ColorDefinitions.lsx100%  
 	    New File  		  335838	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Races\Races.lsx100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\0d9d80f1-9d69-a25f-6f59-300641b6a079.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\0f9393e0-c9ff-f6da-48fb-a5c5036f0c28.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\1114f67f-8373-8d5a-daf6-63f29d53973e.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\15bda835-b0b5-41a7-c5e2-ca3fafc7554d.lsf100%  
+	    New File  		    4439	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\19986464-9871-0be7-190c-2700163492c0.lsf100%  
+	    New File  		    1552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\1ef7c676-3a45-0623-fef0-c8466088c409.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\275b7d10-981c-acf2-9f1c-11adf66bb7b8.lsf100%  
+	    New File  		    2471	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\2a875158-bf37-64e3-88e6-a6e2b6d90d07.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\3197c64e-ffc2-6cd3-7645-ff9cfeced348.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\42d71dab-0932-a4e5-65c2-95a63dfada10.lsf100%  
+	    New File  		    1691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\49f81b67-c027-e58c-0f82-798fd385d35f.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\56278375-01f8-9a2e-a2a2-c02ba5dfd9a5.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\5d42c991-c52d-da52-3264-24b7627a6251.lsf100%  
+	    New File  		    1548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\5fd5ecae-cd9d-c639-d04f-b4a1e0e31616.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\61f6c90d-0a22-58da-108e-20c0ba12726d.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\687da48a-3dd3-9752-94b2-379e6617ec8c.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\68f095e9-c6e3-f810-3549-ea7ef8ac0775.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\6a01711d-1bd7-7bba-de85-642bea17cd98.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\6ebf765c-8476-de24-911d-6851225f07fa.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\84713956-99cf-00e2-d410-be94808263fc.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\937da72c-e660-40fe-0cda-34436d1d8e6d.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\9a0ae46f-673e-6915-c79d-3a03fb8e095f.lsf100%  
+	    New File  		    4485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\9b63b42b-4407-6f59-c5d6-8710fef642be.lsf100%  
+	    New File  		    1548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a2ad7052-f2e4-b85b-cba8-54db1b8e2d52.lsf100%  
+	    New File  		    1837	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a5d63af4-bd91-d396-598f-17488c787d23.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\a87b6799-8f4a-65f3-5a9a-cd332485be27.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ac4b398d-04dd-ba94-fffa-09630698ec1b.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\b9ceaeaa-6497-e43a-1814-6a26df900495.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ba3a7146-35b0-0666-d5b1-e1df0fd73274.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\bf8e2bbd-07e3-5cf6-3caa-ed8224fe4ee1.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\caa87fb4-6a70-a585-419c-37903c8970dd.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ce8f7b1d-e92e-a01b-e55f-4bf1f4555339.lsf100%  
+	    New File  		    4492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\defc6dc0-d1a6-0e0f-47ac-b9c89a4f0134.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f19f4d50-c3c6-e925-199c-34423d8e84e9.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f2440aea-04b2-77ac-a27c-117c7e69ff52.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\f3435846-41ea-d370-db93-7b62683365c3.lsf100%  
+	    New File  		    1544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\fef54378-475c-81ac-0d48-e94c4e5b3257.lsf100%  
+	    New File  		    1538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Body_Tattoo\ff7dcdfe-a776-1015-e8b9-6021c86302e3.lsf100%  
 	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\03bf97ad-a642-65c1-4e5a-5e68fd8b531a.lsf100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\0919e155-e1c5-e853-a0c8-bcf7b1b032cb.lsf100%  
 	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\0bf65b7a-9928-8d41-1d73-0be531c954f9.lsf100%  
@@ -369,27 +451,29 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\f583f126-f05c-b106-88b4-71d2baa44fc1.lsf100%  
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\fdc24b65-acf5-30c7-61ee-4ffa660ae9a2.lsf100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Dragonborn_Extra_Assets_Colors\ffc2119b-ce28-0515-a52e-ee6508c21500.lsf100%  
+	    New File  		    6674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Human_Body_Tattoo\11214d02-4f6b-4f5b-e2f2-c156b29a8846.lsf100%  
+	    New File  		    9174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929\Content\[PAK]_Human_Body_Tattoo\ddcf2971-1c79-ad93-c819-057a4f9b4c7d.lsf100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         6         6         1         0         0         0
-   Files :        75        75         0         0         0         0
-   Bytes :   641.0 k   641.0 k         0         0         0         0
+    Dirs :         8         8         1         0         0         0
+   Files :       116       116         0         0         0         0
+   Bytes :   746.1 k   746.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            38611411 Bytes/sec.
-   Speed :            2209.362 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:20:41 AM
+   Speed :            36384761 Bytes/sec.
+   Speed :            2081.952 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 11:52:36 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 75 
-[DEBUG] Successfully copied files: 75 
+[DEBUG] Total files counted: 116 
+[DEBUG] Successfully copied files: 116 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929: 
-      Total files: 75 
-      Copied successfully: 75 
+      Total files: 116 
+      Copied successfully: 116 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -406,7 +490,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 3 
+[LOG] Files copied by xcopy: 4 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -414,13 +498,13 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Assets_Colors_01d87964-fc46-7140-b29e-3956de333929 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 75 
+[LOG] Files copied by xcopy: 116 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 84 
-[SUMMARY] Total files successfully copied: 168 
+[SUMMARY] Total files found: 126 
+[SUMMARY] Total files successfully copied: 252 
  
 [SUMMARY] All files were copied successfully 
  
