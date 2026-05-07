@@ -1722,20 +1722,20 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_191" />
-        <field name="UUID" type="IdTableFieldDefinition" value="af69bc04-5e50-4a1b-981c-0717697ca0f5" />
-        <field name="NameFS" type="FixedStringTableFieldDefinition" value="EL_Pale_Chestnut_1" />
-        <field name="Color" type="ColorTableFieldDefinition" value="#FFE2ADAE" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbbad6236g451dge964g6060g94c87d712dad" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_192" />
         <field name="UUID" type="IdTableFieldDefinition" value="9abb8be8-d639-4533-be02-6723cd5497d8" />
         <field name="NameFS" type="FixedStringTableFieldDefinition" value="EL_Wewak_2" />
         <field name="Color" type="ColorTableFieldDefinition" value="#FFE29A9C" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3d6cf2d2gd47agb16eg59ffgba573b8b4b88" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_191" />
+        <field name="UUID" type="IdTableFieldDefinition" value="af69bc04-5e50-4a1b-981c-0717697ca0f5" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="EL_Pale_Chestnut_1" />
+        <field name="Color" type="ColorTableFieldDefinition" value="#FFE2ADAE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbbad6236g451dge964g6060g94c87d712dad" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
